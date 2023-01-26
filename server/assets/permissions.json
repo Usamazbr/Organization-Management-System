@@ -1,0 +1,16 @@
+{
+    "permissions":[
+        { "id":"1","name": "Leave Policy"},
+        { "id":"2","name": "Onboarding"},
+        { "id":"3","name": "View Documents"},
+        { "id":"4","name": "Add to Self Hierarchy"},
+        { "id":"5","name": "Add to All Hierarchies"},
+        { "id":"6","name": "Send Request"},
+        { "id":"7","name": "Send Email"},
+        { "id":"8","name": "Send Notification"},
+        { "id":"9","name": "Send Leave Request"},
+        { "id":"10","name": "View Roster"},
+        { "id":"11","name": "Leave Approval"},
+        { "id":"12","name": "Leave Record"}
+    ]
+}
